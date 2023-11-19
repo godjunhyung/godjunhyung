@@ -1,5 +1,3 @@
-<div align="center">
-
 <!--
 **godjunhyung/godjunhyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=Goldsaekki&color=ECC0C9&fontColor=000000&animation=fadeIn)
+<img src="https://img.shields.io/badge/GODJUNHYUNG-A50034?style=flat-square&logo=lg&logoColor=white"/>
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=Goldsaekki&color=ECC0C9&fontColor=ffffff&animation=blinking)
 
-### Hi there 👋
+### Hi there 👋 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godjunhyung&show_icons=true&theme=radical)
 </div>
