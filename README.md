@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GODJUNHYUNG-A50034?style=flat-square&logo=lg&logoColor=white"/>
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=Goldsaekki&color=ECC0C9&fontColor=ffffff&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=Godjunhyung&color=ECC0C9&fontColor=ffffff&animation=blinking)
 
 ### Hi there 👋 
 
